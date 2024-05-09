@@ -166,15 +166,44 @@
       "Name": "Page",
       "Linked": {
         "Children": [
-          "lvz25bpyhfzckzias2o"
+          "lvz25x1p3efw34j9n1u"
         ],
-        "Components": []
+        "Components": [],
+        "Fields": [
+          "lvz25tc0b30mna5g7tg"
+        ]
       },
       "Attrs": {},
       "Parent": "lvye001tg28mvtdza2w"
     },
     {
-      "ID": "lvz25bpyhfzckzias2o",
+      "ID": "lvz25tc0b30mna5g7tg",
+      "Name": "Test",
+      "Value": "something",
+      "Linked": {
+        "Children": [],
+        "Components": [
+          "lvz25tc0yzqlm9os7h"
+        ]
+      },
+      "Attrs": {},
+      "Parent": "lvz24nasgsa5dm0ihib",
+      "Rel": "Fields"
+    },
+    {
+      "ID": "lvz25tc0yzqlm9os7h",
+      "Name": "treehouse.TextField",
+      "Value": {},
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lvz25tc0b30mna5g7tg",
+      "Rel": "Components"
+    },
+    {
+      "ID": "lvz25x1p3efw34j9n1u",
       "Name": "",
       "Linked": {
         "Children": [],
