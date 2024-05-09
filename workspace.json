@@ -1,13 +1,16 @@
 {
   "version": 1,
-  "lastopen": "lvye001tg28mvtdza2w",
+  "lastopen": "lvz24nasgsa5dm0ihib",
   "expanded": {
     "@workspace": {},
     "@quickadd": {
       "@quickadd": true
     },
     "lvye001tg28mvtdza2w": {
-      "lvye001tg28mvtdza2w": true
+      "lvye001tg28mvtdza2w": true,
+      "lvz26418zxsdktmzcsk": false,
+      "lvz27bpc2kv3f7xow3w": false,
+      "lvz24nasgsa5dm0ihib": true
     },
     "lvz24nasgsa5dm0ihib": {
       "lvz24nasgsa5dm0ihib": true,
@@ -177,7 +180,7 @@
         ]
       },
       "Attrs": {
-        "view": "list"
+        "view": "table"
       },
       "Parent": "lvye001tg28mvtdza2w"
     },
