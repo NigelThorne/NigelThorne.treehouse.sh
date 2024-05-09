@@ -59,6 +59,7 @@
         "Children": [
           "lvz08obt271hh19q27yi",
           "lvz08zkqal6eccf4b2",
+          "lvz0afv1x4p7iwkpmu",
           "lvz0a7hxooe13kduvck"
         ],
         "Components": []
@@ -77,7 +78,7 @@
     },
     {
       "ID": "lvz08zkqal6eccf4b2",
-      "Name": "Debugging with Craig",
+      "Name": "Debugging with Craig - Need to get this live tomorrow",
       "Linked": {
         "Children": [],
         "Components": []
@@ -87,6 +88,16 @@
     },
     {
       "ID": "lvz0a7hxooe13kduvck",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
+    },
+    {
+      "ID": "lvz0afv1x4p7iwkpmu",
       "Name": "",
       "Linked": {
         "Children": [],
