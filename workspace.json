@@ -10,7 +10,8 @@
       "lvye001tg28mvtdza2w": true
     },
     "lvz24nasgsa5dm0ihib": {
-      "lvz24nasgsa5dm0ihib": true
+      "lvz24nasgsa5dm0ihib": true,
+      "lvz26418zxsdktmzcsk": false
     }
   },
   "nodes": [
@@ -163,7 +164,7 @@
     },
     {
       "ID": "lvz24nasgsa5dm0ihib",
-      "Name": "ePage",
+      "Name": "Page",
       "Linked": {
         "Children": [
           "lvz26418zxsdktmzcsk"
@@ -174,7 +175,9 @@
           "lvz260x8gwae6xceox"
         ]
       },
-      "Attrs": {},
+      "Attrs": {
+        "view": "table"
+      },
       "Parent": "lvye001tg28mvtdza2w"
     },
     {
