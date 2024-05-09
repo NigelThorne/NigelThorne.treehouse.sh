@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastopen": "lvz24nasgsa5dm0ihib",
+  "lastopen": "lvye001tg28mvtdza2w",
   "expanded": {
     "@workspace": {},
     "@quickadd": {
@@ -167,7 +167,8 @@
       "Name": "Page",
       "Linked": {
         "Children": [
-          "lvz26418zxsdktmzcsk"
+          "lvz26418zxsdktmzcsk",
+          "lvz27bpc2kv3f7xow3w"
         ],
         "Components": [],
         "Fields": [
@@ -209,7 +210,7 @@
     {
       "ID": "lvz260x8gwae6xceox",
       "Name": "Age",
-      "Value": "Somethign else",
+      "Value": "Something else",
       "Linked": {
         "Children": [],
         "Components": [
@@ -234,6 +235,16 @@
     },
     {
       "ID": "lvz26418zxsdktmzcsk",
+      "Name": "",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lvz24nasgsa5dm0ihib"
+    },
+    {
+      "ID": "lvz27bpc2kv3f7xow3w",
       "Name": "",
       "Linked": {
         "Children": [],
