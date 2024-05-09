@@ -1,12 +1,15 @@
 {
   "version": 1,
-  "lastopen": "lvye001tg28mvtdza2w",
+  "lastopen": "lvz24nasgsa5dm0ihib",
   "expanded": {
     "@workspace": {},
     "@quickadd": {
       "@quickadd": true
     },
-    "lvye001tg28mvtdza2w": {}
+    "lvye001tg28mvtdza2w": {
+      "lvye001tg28mvtdza2w": true
+    },
+    "lvz24nasgsa5dm0ihib": {}
   },
   "nodes": [
     {
@@ -49,7 +52,9 @@
       "ID": "lvye001tg28mvtdza2w",
       "Name": "Home",
       "Linked": {
-        "Children": [],
+        "Children": [
+          "lvz24nasgsa5dm0ihib"
+        ],
         "Components": []
       },
       "Attrs": {},
@@ -153,6 +158,16 @@
       },
       "Attrs": {},
       "Parent": "lvz0dwferfd4za1up"
+    },
+    {
+      "ID": "lvz24nasgsa5dm0ihib",
+      "Name": "Page",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "lvye001tg28mvtdza2w"
     }
   ],
   "settings": {}
