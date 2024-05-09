@@ -60,6 +60,7 @@
           "lvz08obt271hh19q27yi",
           "lvz08zkqal6eccf4b2",
           "lvz0afv1x4p7iwkpmu",
+          "lvz0au1z3ew9c2gvm2i",
           "lvz0a7hxooe13kduvck"
         ],
         "Components": []
@@ -98,6 +99,16 @@
     },
     {
       "ID": "lvz0afv1x4p7iwkpmu",
+      "Name": "Nico sent though some more CVs",
+      "Linked": {
+        "Children": [],
+        "Components": []
+      },
+      "Attrs": {},
+      "Parent": "@quickadd"
+    },
+    {
+      "ID": "lvz0au1z3ew9c2gvm2i",
       "Name": "",
       "Linked": {
         "Children": [],
